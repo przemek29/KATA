@@ -1,0 +1,7 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\bin\Debug\KATA4.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\bin\Debug\KATA4.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\obj\x86\Debug\KATA4.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\obj\x86\Debug\KATA4.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\bin\Debug\KATA4.Calculator.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\bin\Debug\KATA4.Calculator.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4\obj\x86\Debug\KATA4.csprojResolveAssemblyReference.cache

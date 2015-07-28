@@ -1,0 +1,4 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator\bin\Debug\KATA4.Calculator.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator\bin\Debug\KATA4.Calculator.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator\obj\Debug\KATA4.Calculator.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator\obj\Debug\KATA4.Calculator.pdb

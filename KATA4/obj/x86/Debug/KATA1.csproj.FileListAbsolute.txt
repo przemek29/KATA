@@ -1,0 +1,4 @@
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\KATA1\bin\Debug\KATA1.exe
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\KATA1\bin\Debug\KATA1.pdb
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\KATA1\obj\x86\Debug\KATA1.exe
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\KATA1\obj\x86\Debug\KATA1.pdb

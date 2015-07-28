@@ -1,0 +1,8 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\bin\Debug\KATA4.Calculator.Tests.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\bin\Debug\KATA4.Calculator.Tests.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\obj\Debug\KATA4.Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\obj\Debug\KATA4.Calculator.Tests.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\obj\Debug\KATA4.Calculator.Tests.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\bin\Debug\KATA4.Calculator.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\KATA4\KATA4.Calculator.Tests\bin\Debug\KATA4.Calculator.pdb
